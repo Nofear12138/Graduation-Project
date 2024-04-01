@@ -1,0 +1,5 @@
+purchase_1  0
+purchase_2  1
+purchase_3  2
+purchase_4  3
+purchase_5  4
